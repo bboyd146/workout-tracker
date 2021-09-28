@@ -17,6 +17,7 @@ This Full-stack project is designed to allow a user to post and keep track of pr
 npm install
 
 ## Usage 
+![workout](https://user-images.githubusercontent.com/82745040/135160079-5ccd8c0a-b8c8-4dd1-a2b3-76b23d57fb24.png)
 
 
 ## License 
