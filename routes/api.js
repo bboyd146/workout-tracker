@@ -27,6 +27,16 @@ router.get("/api/workouts/range", (req, res)=> {
     
 });
 
+router.post("/api/workouts", (req, res) => {
+    Exercise.create(req.body)
+    .then(workouts => {
+        res.json(workouts);
+    })
+    .catch(err => {
+        res.status(400).json(err);
+    });
+});
+
 router.get("/exercise", (req, res) => {
     res.sendFile(path.join(__dirname, "../public/exercise.html"));
 });
