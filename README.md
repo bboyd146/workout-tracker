@@ -6,12 +6,16 @@ This Full-stack project is designed to allow a user to post and keep track of pr
 
 ## Table of Contents
 
+- [Deployed](#Deployed)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Credits](#Credits)
 - [License](#License)
 - [Badges](#Badges)
 - [Questions](#Questions)
+
+## Deployed
+https://workout-tracker-p8aj.onrender.com
 
 ## Installation 
 npm install
